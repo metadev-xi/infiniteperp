@@ -65,4 +65,4 @@ InfinitePerp provides a comprehensive API surface for both frontend interactions
 
 <!-- Last Activity: 2026-01-29T11:10:51.175Z -->
 
-<!-- Last Activity: 2026-02-10T14:07:05.814Z -->
+<!-- Last Activity: 2026-02-10T15:07:01.415Z -->
